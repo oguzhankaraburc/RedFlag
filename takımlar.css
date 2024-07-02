@@ -1,0 +1,384 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+section{
+    border: px solid;
+    position: relative;
+    margin-top: 100px;
+    left: 200px;
+    width: 80%;
+    height: 1000px;
+    font-family: 'Lato', sans-serif;
+
+}
+section .title {
+    position: relative;
+    bottom: 20px;
+    
+}
+
+    .takimlar-redbull{
+        border: 2px solid cadetblue;
+        height: 250px;
+        border-bottom: 0px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+.takimlar-redbull h1{
+    position: relative;
+    bottom: 560px;
+    left: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+.takimlar-redbull .pilot1{
+    position: relative;
+    border: px solid;
+    width: 100px;    
+    height: 200px;
+    left: 700px;
+    bottom: 140px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+
+.takimlar-redbull .pilot2{
+    position: relative;
+    border: px solid;
+    width: 100px;    
+    height: 200px;
+    left: 1000px;
+    bottom: 337px;
+    
+}
+
+.takimlar-mercedes{
+    border: 2px solid cadetblue;
+    height: 250px;
+    border-bottom: 0px;
+
+}
+
+.takimlar-mercedes .pilot1{
+    position: relative;
+    left: 50px;
+    top: 20px;    
+}
+.takimlar-mercedes .pilot2{
+    position: relative;
+    left: 320px;
+    bottom: 162px;
+}
+
+.takimlar-mercedes h1{
+    position: relative;
+    bottom: 370px;
+    left: 990px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+.takimlar-ferrari{
+    border: 2px solid cadetblue;
+    height: 250px;
+    border-bottom: 0px;
+
+    
+}
+.takimlar-ferrari h1{
+position: relative;
+bottom: 550px;
+left: 50px;
+font-size: 30px;
+font-weight: bold;
+font-family: 'Lato', sans-serif;
+}
+
+.takimlar-ferrari .pilot1{
+position: relative;
+border: px solid;
+width: 100px;    
+height: 200px;
+left: 700px;
+bottom: 140px;
+font-weight: bold;
+font-family: 'Lato', sans-serif;
+
+}
+
+
+.takimlar-ferrari .pilot2{
+position: relative;
+border: px solid;
+width: 100px;    
+height: 200px;
+left: 1000px;
+bottom: 337px;
+
+}
+
+
+.takimlar-mclaren{
+    border: 2px solid cadetblue;
+    height: 250px;
+    border-bottom: 0px;
+
+}
+
+.takimlar-mclaren .pilot1{
+    position: relative;
+    left: 50px;
+    top: 20px;    
+}
+.takimlar-mclaren .pilot2{
+    position: relative;
+    left: 320px;
+    bottom: 162px;
+}
+
+.takimlar-mclaren h1{
+    position: relative;
+    bottom: 370px;
+    left: 990px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+.takimlar-astonmartin{
+    border: 2px solid cadetblue;
+    height: 250px;
+    border-bottom: 0px;
+
+    
+}
+.takimlar-astonmartin h1{
+position: relative;
+bottom: 550px;
+left: 50px;
+font-size: 30px;
+font-weight: bold;
+font-family: 'Lato', sans-serif;
+}
+
+.takimlar-astonmartin .pilot1{
+position: relative;
+border: px solid;
+width: 100px;    
+height: 200px;
+left: 700px;
+bottom: 140px;
+font-weight: bold;
+font-family: 'Lato', sans-serif;
+
+}
+
+
+.takimlar-astonmartin .pilot2{
+position: relative;
+border: px solid;
+width: 100px;    
+height: 200px;
+left: 1000px;
+bottom: 337px;
+
+}
+
+.takimlar-alpine{
+    border: 2px solid cadetblue;
+    height: 250px;
+    border-bottom: 0px;
+
+}
+
+.takimlar-alpine .pilot1{
+    position: relative;
+    left: 50px;
+    top: 20px;    
+}
+.takimlar-alpine .pilot2{
+    position: relative;
+    left: 320px;
+    bottom: 162px;
+}
+
+.takimlar-alpine h1{
+    position: relative;
+    bottom: 370px;
+    left: 990px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+.takimlar-williams{
+    border: 2px solid cadetblue;
+    height: 250px;
+    border-bottom: 0px;
+
+    
+}
+.takimlar-williams h1{
+position: relative;
+bottom: 550px;
+left: 50px;
+font-size: 30px;
+font-weight: bold;
+font-family: 'Lato', sans-serif;
+}
+
+.takimlar-williams .pilot1{
+position: relative;
+border: px solid;
+width: 100px;    
+height: 200px;
+left: 700px;
+bottom: 140px;
+font-weight: bold;
+font-family: 'Lato', sans-serif;
+
+}
+
+
+.takimlar-williams .pilot2{
+position: relative;
+border: px solid;
+width: 100px;    
+height: 200px;
+left: 1000px;
+bottom: 337px;
+
+}
+
+
+.takimlar-alphatauri{
+    border: 2px solid cadetblue;
+    height: 250px;
+    border-bottom: 0px;
+
+}
+
+.takimlar-alphatauri .pilot1{
+    position: relative;
+    left: 50px;
+    top: 20px;    
+}
+.takimlar-alphatauri .pilot2{
+    position: relative;
+    left: 320px;
+    bottom: 162px;
+}
+
+.takimlar-alphatauri h1{
+    position: relative;
+    bottom: 370px;
+    left: 990px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+.takimlar-alfaromeo{
+    border: 2px solid cadetblue;
+    height: 250px;
+    border-bottom: 0px;
+
+    
+    
+}
+.takimlar-alfaromeo h1{
+position: relative;
+bottom: 550px;
+left: 50px;
+font-size: 30px;
+font-weight: bold;
+font-family: 'Lato', sans-serif;
+}
+
+.takimlar-alfaromeo .pilot1{
+position: relative;
+border: px solid;
+width: 100px;    
+height: 200px;
+left: 700px;
+bottom: 140px;
+font-weight: bold;
+font-family: 'Lato', sans-serif;
+text-align: center;
+
+}
+
+
+.takimlar-alfaromeo .pilot2{
+position: relative;
+border: px solid;
+width: 100px;    
+height: 200px;
+left: 1000px;
+bottom: 337px;
+text-align: center;
+
+
+}
+
+
+.takimlar-haas{
+    border: 2px solid cadetblue;
+    height: 250px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.takimlar-haas .pilot1{
+    position: relative;
+    left: 50px;
+    top: 20px;    
+}
+.takimlar-haas .pilot2{
+    position: relative;
+    left: 320px;
+    bottom: 162px;
+}
+
+.takimlar-haas h1{
+    position: relative;
+    bottom: 370px;
+    left: 960px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    position: relative;
+    top: 900px;
+}

@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 700px;
+    position: relative;
+    left: 600px;
+    top: 100px;
+    
+}
+
+section .haber h1{
+    color:dimgray;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
+
+section .haber p{
+    color:black;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    margin-top:50px;
+    margin-bottom: 20px;
+    text-align: left;
+    
+}
+
+.cokluhaber{
+
+        position: absolute;
+        border-top: 1px solid #15151e;
+        border-right: 1px solid #15151e;
+        border-top-left-radius: 50px ;       
+        width: 420px;
+        height: 400px;
+        top:500px;
+        font-family: 'Titillium Web', sans-serif;
+        left:5px;
+
+}
+.cokluhaber h1{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.cokluhaber ol li {
+    padding-top: 15px;
+    position: relative;
+    left: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+.cokluhaber a:hover{
+        border-bottom: 1px solid #e10600;
+}
+
+.cokluhaber a:visited{
+    color: black;
+}

@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+section h1 {
+    position: relative;
+    left: 600px;
+    top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+section form{
+    width:700px;
+    height: 500px;
+    border: px solid;
+    position: relative;
+    left: 600px;
+    top: 120px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    border-radius: 10px;
+    background-color: #e10600;
+    
+}
+
+section form .adsoyad{
+    width: 240px;
+    height: 40px;
+    margin-left: 100px;
+    margin-right: 20px;
+    position: relative;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid white;
+    letter-spacing: 1px;
+    font-size: 14px;
+    padding: 10px;
+}
+section form .tel{
+    width: 240px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid white;
+    letter-spacing: 1px;
+    font-size: 14px;
+    padding: 10px;
+
+
+}
+section form .mail{
+    width: 240px;
+    height: 40px;
+    margin-bottom: 150px;
+    margin-left: 100px;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 1px solid white;
+    letter-spacing: 1px;
+    font-size: 14px;
+    padding: 10px;
+
+
+}
+section form .konu{
+    width: 240px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid white;
+    letter-spacing: 1px;
+    font-size: 14px;
+    padding: 10px;
+
+
+}
+section form textarea{
+    border-radius: 10px;
+    width: 500px;
+    position: relative;
+    left: 100px;
+    bottom: 100px;
+    border: 1px solid;
+    border: 1px solid white;
+    letter-spacing: 1px;
+    font-size: 12px;
+    padding: 10px;
+
+}
+section form .gönder{
+    position: relative;
+    top: 150px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid white;
+}
+
+
+
